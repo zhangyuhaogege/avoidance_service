@@ -19,6 +19,6 @@ COMMON_MYSQL = dict(
 )
 
 CONSUL_SERVER = dict(
-    HOST="60.205.215.111",  # consul服务器的ip
+    HOST="114.247.239.215",  # consul服务器的ip
     PORT="30004",  # consul服务器对外的端口
 )
